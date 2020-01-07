@@ -1,0 +1,15 @@
+{
+    "name": "bishal",
+    "version": "1.0.0",
+    "description": "my sass",
+    "main": "index.js",
+    "scripts": {
+        "compiled:sass": "node-sass sasscode/main.scss css/style.css"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.12.0",
+        "npm-run-all": "^4.1.5"
+    }
+}

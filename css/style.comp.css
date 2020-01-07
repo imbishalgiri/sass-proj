@@ -1,0 +1,22 @@
+:root {
+  --color-primary: #eb2764;
+  --color-primary-light: #ff3366;
+  --color-primary-dark: #ba265d; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; }
+
+body {
+  background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; }
