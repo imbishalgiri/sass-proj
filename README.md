@@ -6,4 +6,4 @@
    * run command **npm start**
    
 # OR
-[see the demo live here] (https://imbishalgiri.github.io/sass-proj/)
+[see the demo live here](https://imbishalgiri.github.io/sass-proj/)
